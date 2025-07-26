@@ -255,7 +255,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Mostafa Samy**
 - GitHub: [@mustafasamy28](https://github.com/mustafasamy28)
 - LinkedIn: [Mostafa Samy](https://www.linkedin.com/in/mostafa-samy-9b95711a7/)
-- Email: mostafasamy28@gmail.com
+- Email: mustafasamy28@gmail.com
 
 ## 🙏 Acknowledgments
 

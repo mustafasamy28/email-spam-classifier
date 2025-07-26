@@ -270,7 +270,7 @@ If you encounter any issues or have questions:
 
 1. **Check existing issues**: [GitHub Issues](https://github.com/mustafasamy28/email-spam-classifier/issues)
 2. **Create new issue**: Provide detailed description and steps to reproduce
-3. **Email support**: mostafasamy28@gmail.com
+3. **Email support**: mustafasamy28@gmail.com
 
 ## 🔮 Future Enhancements
 

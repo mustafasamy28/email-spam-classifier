@@ -24,17 +24,7 @@ A professional machine learning web application for classifying emails as spam o
 
 *Live demo of the email spam classifier in action*
 
-## 📸 Screenshots
 
-<div align="center">
-  <img src="assets/1.png" width="45%" alt="Main Interface" />
-  <img src="assets/2.png" width="45%" alt="Model Training" />
-</div>
-
-<div align="center">
-  <img src="assets/3.png" width="45%" alt="Spam Detection Result" />
-  <img src="assets/4.png" width="45%" alt="Ham Classification Result" />
-</div>
 
 ## 🛠️ Technology Stack
 
